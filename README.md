@@ -9,6 +9,10 @@
   <p align="center">
   This project was built purely with React!
   </p>
+  <p align="center"> 
+   <img align="center" src="https://i.ibb.co/vPzs1Dy/preview.png" />
+  </p>
+  
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -18,7 +22,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
