@@ -13,6 +13,12 @@
    <img align="center" src="https://i.ibb.co/vPzs1Dy/preview.png" />
   </p>
   
+## Tech Stack
+- JavaScript
+- HTML
+- CSS
+- React.JS
+  
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
